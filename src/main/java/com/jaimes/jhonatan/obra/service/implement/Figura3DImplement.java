@@ -8,7 +8,6 @@ import com.jaimes.jhonatan.obra.repository.Figura3DRepository;
 import com.jaimes.jhonatan.obra.service.Figura3DService;
 
 import java.util.List;
-import java.util.Optional;
 
 @Service
 public class Figura3DImplement implements Figura3DService{
